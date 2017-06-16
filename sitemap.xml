@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://michaelspowers.com/post/choosing-participants/</loc>
+    <lastmod>2017-06-13T10:02:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelspowers.com/post/user-testing-is-important/</loc>
+    <lastmod>2017-05-12T15:50:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelspowers.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michaelspowers.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://michaelspowers.com/</loc>
+    <lastmod>2017-06-13T10:02:27-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michaelspowers.com/post/</loc>
+    <lastmod>2017-06-13T10:02:27-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michaelspowers.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michaelspowers.com/categories/test-your-damn-game/</loc>
+    <lastmod>2017-06-13T10:02:27-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Michael S Powers</title>
+    <link>http://michaelspowers.com/categories/</link>
+    <description>Recent content in Categories on Michael S Powers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://michaelspowers.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Your Damn Game</title>
+      <link>http://michaelspowers.com/categories/test-your-damn-game/</link>
+      <pubDate>Tue, 13 Jun 2017 10:02:27 -0700</pubDate>
+      
+      <guid>http://michaelspowers.com/categories/test-your-damn-game/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

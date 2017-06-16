@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test Your Damn Game on Michael S Powers</title>
+    <link>http://michaelspowers.com/categories/test-your-damn-game/</link>
+    <description>Recent content in Test Your Damn Game on Michael S Powers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jun 2017 10:02:27 -0700</lastBuildDate>
+    
+	<atom:link href="http://michaelspowers.com/categories/test-your-damn-game/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>choosing participants for user testing</title>
+      <link>http://michaelspowers.com/post/choosing-participants/</link>
+      <pubDate>Tue, 13 Jun 2017 10:02:27 -0700</pubDate>
+      
+      <guid>http://michaelspowers.com/post/choosing-participants/</guid>
+      <description>Test your damn game: choosing participants It is important to test your game with representative users. Talk to them, watch them play your game. You need their independent feedback, after all you are too close to your game.
+Choosing the right participants is key to success It is important to get the right participants for your user tests. You will be using the test feedback to change or improve your game.</description>
+    </item>
+    
+    <item>
+      <title>4 reasons user testing is important</title>
+      <link>http://michaelspowers.com/post/user-testing-is-important/</link>
+      <pubDate>Fri, 12 May 2017 15:50:06 -0700</pubDate>
+      
+      <guid>http://michaelspowers.com/post/user-testing-is-important/</guid>
+      <description>Test your damn game: 4 reasons user testing is important User testing is evaluating a game by testing it with representative users. These tests usually involve talking to people and watching them interact with your game. The point of user testing is to give us independent feedback to help us make better and more profitable games.
+4 reasons why user testing is important 1) Competition: the marketplace is flooded with games.</description>
+    </item>
+    
+  </channel>
+</rss>
